@@ -1,6 +1,6 @@
 <div align="center">
  
-# Yeji Im
+# YAZII Im
  
 ### UI/UX Designer in Progress · Product Thinker · Curious Builder
  
@@ -13,14 +13,15 @@
  
 ## About Me
  
-안녕하세요.
-저는 **왜 이 구조가 필요한지 설명할 수 있는 디자인**에 관심이 많습니다.
- 
-브랜딩과 기획을 바탕으로
+안녕하세요. 저는 브랜딩과 기획을 바탕으로
 사용자의 흐름, 정보 구조, 인터페이스 논리를 함께 생각하는 디자이너가 되고자합니다.
  
-저는 디자인을
-**"보기 좋은 결과물"보다 "이해 가능한 경험을 만드는 일"**에 가깝게 생각합니다.
+예쁜 화면도 좋지만,
+왜 이 버튼이 여기 있어야 하는지 설명할 수 있는 디자인에 가까워지고자합니다.
+
+화면보다 맥락을 먼저 봅니다.
+브랜드가 무슨 말을 해야 하는지, 사용자가 어디서 막히는지
+그 질문에서 디자인을 시작합니다.
  
 ---
  
@@ -54,7 +55,7 @@
  
 ## Currently Learning
  
-`HTML` `CSS` `JavaScript` `Web Publishing` `Interface Structure` `Design Systems` `Product UX Thinking`
+`UX/UI Design` `HTML` `CSS` `JavaScript` `Web Publishing` `Interface Structure` 
  
 ---
  
@@ -65,14 +66,13 @@
 - 기획과 구조를 실제 화면으로 옮기는 과정
  
 즉, 이 공간은
-"어떤 방식으로 생각하고 설계하는지"를 남기는 작업 로그**입니다.
+어떤 방식으로 생각하고 설계하는지를 남기는 작업 로그입니다.
  
 ---
  
 ## A Line I Like
- 
-> Good design is not just seen.
-> It is understood.
+
+ > Clarity is kindness.
  
 ---
  
