@@ -1,12 +1,6 @@
 <div align="center">
 
-<p># 야지</p>
-<p>### UX/UI Designer</p>
-<p></p>
-<img src="https://github-readme-stats.vercel.app/api?username=야지&show_icons=true&theme=default" />
-<p></p>
-<img src="https://img.shields.io/badge/-figma-ED93B1&style=flat-square" />
-<p></p>
+![The Octocat](http://127.0.0.1:5501/api/widget?style=gradient&accent=ED93B1&grad=forest&emoji=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&name=The+Octocat&role=Full-stack+Developer&handle=%40octocat&stats=%E3%85%87%EB%9F%AC%E3%85%8F%E3%85%A3%EB%8B%A4Stars%3A2.8k%2CRepos%3A142%2CActive%3A98%25&badges=React%2CTypeScript%2CNode.js)
  
 # YAZII Im
  
