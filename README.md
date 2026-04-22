@@ -1,4 +1,12 @@
 <div align="center">
+
+<p># 야지</p>
+<p>### UX/UI Designer</p>
+<p></p>
+<img src="https://github-readme-stats.vercel.app/api?username=야지&show_icons=true&theme=default" />
+<p></p>
+<img src="https://img.shields.io/badge/-figma-ED93B1&style=flat-square" />
+<p></p>
  
 # YAZII Im
  
